@@ -46,12 +46,7 @@ Clap Detection/
 
 ## ⚙️ Configuration
 
-Modifie les chemins selon ton PC :
-
-```python
-AUDIO_FILE = r"C:\Projets\Clap detection\Welcome back Jarvis.mp3"
-VSCODE_PATH = r"C:\Users\aya-hajri\AppData\Local\Programs\Microsoft VS Code\Code.exe"
-```
+`
 
 Paramètres de détection :
 
